@@ -1,7 +1,7 @@
 package mastermind
 
 import java.util.*
-
+//mastermind game.kt
 val ALPHABET = 'A'..'F'
 val CODE_LENGTH = 4
 
